@@ -21,19 +21,28 @@ School of Teaching and Learning
 University of Florida College of Education  
 [Faculty Profile](https://education.ufl.edu/faculty/botelho-anthony-f/)
 
-Research expertise:
-- Learning Analytics & Machine Learning
-- Artificial Intelligence in Education
-- Student Behavior & Affect Analysis
-- Educational Data Mining
-- Human-in-the-Loop Systems
+## 🎯 Research Areas & Expertise
+Our lab focuses on developing innovative technological solutions for education through:
 
-## 🎯 Research Focus Areas
-- Learning Analytics & Educational Data Mining
-- Artificial Intelligence in Education
-- Adaptive Learning Technologies
-- Student Affect & Behavior Analysis
-- Educational Technology Innovation
+### Core Research Domains
+- **Learning Analytics & AI in Education**  
+  Developing intelligent systems for personalized learning experiences
+  
+- **Student Behavior & Affect Analysis**  
+  Understanding and supporting student engagement and emotional states
+  
+- **Educational Data Mining**  
+  Extracting meaningful insights from educational data to improve learning outcomes
+  
+### Technical Expertise
+- **Adaptive Learning Technologies**  
+  Building responsive systems that adapt to individual student needs
+  
+- **Human-in-the-Loop Systems**  
+  Designing AI systems that maintain meaningful human oversight and interaction
+  
+- **Machine Learning Applications**  
+  Applying cutting-edge ML techniques to solve educational challenges
 
 ## 🌟 Latest News
 
