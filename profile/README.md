@@ -12,7 +12,21 @@
 </div>
 
 ## 🔬 About Our Lab
-The VIABLE Lab at University of Florida College of Education is dedicated to developing and deploying cutting-edge technology to study student learning across diverse educational contexts. We combine theories and methodologies from education, cognitive psychology, artificial intelligence, and computer science to advance learning technologies.
+The VIABLE Lab (Versatile Innovations in Affect Behavior and Learning Engineering), led by [Dr. Anthony Botelho](https://education.ufl.edu/faculty/botelho-anthony-f/), is a research laboratory at the University of Florida College of Education. Dr. Botelho, an Assistant Professor of Educational Technology, is an expert in developing and deploying technology to study student learning across educational contexts. Our lab combines theories and methodologies from education, cognitive psychology, artificial intelligence, and computer science to advance learning technologies.
+
+## 👨‍🔬 Lab Director
+**Dr. Anthony Botelho**  
+Assistant Professor of Educational Technology  
+School of Teaching and Learning  
+University of Florida College of Education  
+[Faculty Profile](https://education.ufl.edu/faculty/botelho-anthony-f/)
+
+Research expertise:
+- Learning Analytics & Machine Learning
+- Artificial Intelligence in Education
+- Student Behavior & Affect Analysis
+- Educational Data Mining
+- Human-in-the-Loop Systems
 
 ## 🎯 Research Focus Areas
 - Learning Analytics & Educational Data Mining
