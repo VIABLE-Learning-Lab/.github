@@ -53,7 +53,7 @@ Gainesville, FL 32601
 - [Team](https://viablelab.org/team)
 - [Publications](https://viablelab.org/publications)
 - [Projects](https://viablelab.org/projects)
-- [Contact](mailto:abotelho@coe.ufl.edu)
+- [Contact](https://viablelab.org/contact)
 
 <div align="center">
   
