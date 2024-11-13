@@ -32,12 +32,13 @@ We are recruiting 1-2 PhD students for Fall 2025 in Educational Technology. [Lea
 ## 🤝 Collaboration
 We actively collaborate with:
 - Educational researchers
+- Computer scientists
 - AI specialists
-- K-12 educators
+- K-12 and higher education educators
 - Industry partners
 
-## 💻 Open Source Projects
-Visit our [GitHub Organization](https://github.com/VIABLE-Learning-Lab) to explore our open-source projects and contributions to the educational technology community.
+<!-- ## 💻 Open Source Projects
+Visit our [GitHub Organization](https://github.com/VIABLE-Learning-Lab) to explore our open-source projects and contributions to the educational technology community. -->
 
 ## 📚 Research Output
 Follow our latest research publications and updates on [ResearchGate](https://www.researchgate.net/lab/Versatile-Innovations-in-Affect-Behavior-Learning-Engineering-VIABLE-Anthony-F-Botelho).
