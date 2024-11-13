@@ -22,12 +22,34 @@ The VIABLE Lab at University of Florida College of Education is dedicated to dev
 - Educational Technology Innovation
 
 ## 🌟 Latest News
-### 📢 PhD Positions Available for Fall 2025
-We are recruiting 1-2 PhD students for Fall 2025 in Educational Technology. [Learn more](https://viablelab.org/positions)
 
-### 🎓 Recent Conference Presentations
-- AECT 2024 (Kansas City) - Systematic review on AI chatbots in education
-- EDM 2024 & L@S 2024 (Atlanta) - Multiple papers and posters presentations
+### Recent Updates
+- **[PhD Positions Available for Fall 2025](https://viablelab.org/news/6)**  
+  *October 24, 2024*  
+  VIABLE Lab is recruiting 1-2 PhD students for Fall 2025 in Educational Technology at University of Florida.
+
+- **[VIABLE Lab Presents at AECT 2024](https://viablelab.org/news/5)**  
+  *October 22, 2024*  
+  Lab member Chip Li presented a systematic review on AI chatbots in education at AECT 2024.
+
+- **[Research Showcase at EDM & L@S 2024](https://viablelab.org/news/4)**  
+  *July 21, 2024*  
+  Our lab members presented multiple papers at EDM 2024 & L@S 2024 in Atlanta.
+
+### Archive Highlights
+- **[NSF Grant Award](https://viablelab.org/news/3)**  
+  *June 15, 2024*  
+  VIABLE Lab receives NSF grant for AI research in education.
+
+- **[Publication Achievement](https://viablelab.org/news/2)**  
+  *May 30, 2024*  
+  New publication in Computers & Education on adaptive learning systems.
+
+- **[Lab Growth](https://viablelab.org/news/1)**  
+  *May 1, 2024*  
+  Welcome new lab members joining our research team.
+
+[View All News →](https://viablelab.org/news)
 
 ## 🤝 Collaboration
 We actively collaborate with:
@@ -54,6 +76,7 @@ Gainesville, FL 32601
 - [Team](https://viablelab.org/team)
 - [Publications](https://viablelab.org/publications)
 - [Projects](https://viablelab.org/projects)
+- [News](https://viablelab.org/news)
 - [Contact](https://viablelab.org/contact)
 
 <div align="center">
