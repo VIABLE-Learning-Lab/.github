@@ -41,11 +41,11 @@ The VIABLE Lab at University of Florida College of Education is dedicated to dev
   *June 15, 2024*  
   Lab member presented research on LLM-based student risk detection and learning analytics at CSCL 2024 in Buffalo, New York.
 
-- **[VIABLE Lab Receives OpenAI Research Grant](https://viablelab.org/news/2)**  
+- **[Receives OpenAI Research Grant](https://viablelab.org/news/2)**  
   *April 24, 2024*  
   Our lab has been awarded the OpenAI Researcher Access Program grant to advance research in educational AI applications.
 
-- **[VIABLE Lab Welcomes Three New PhD Students](https://viablelab.org/news/1)**  
+- **[Welcomes Three New PhD Students](https://viablelab.org/news/1)**  
   *August 24, 2023*  
   Three outstanding PhD students - Seiyon Lee, Chip Li, and Shan Zhang - join our research team, bringing diverse expertise in AI, learning analytics, and educational technology.
 
