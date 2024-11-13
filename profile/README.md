@@ -18,8 +18,16 @@ The VIABLE Lab (Versatile Innovations in Affect Behavior and Learning Engineerin
 **Dr. Anthony Botelho**  
 Assistant Professor of Educational Technology  
 School of Teaching and Learning  
-University of Florida College of Education  
-[Faculty Profile](https://education.ufl.edu/faculty/botelho-anthony-f/)
+University of Florida College of Education
+
+### Connect with Dr. Botelho
+[![Personal Website](https://img.shields.io/badge/Personal_Website-abotelho.com-blue?logo=safari&logoColor=white)](https://www.abotelho.com/)
+[![Lab Profile](https://img.shields.io/badge/Lab_Profile-VIABLE_Lab-green?logo=data:image/png;base64,BASE64_LOGO)](https://viablelab.org/team/anthony-botelho)
+[![Faculty Profile](https://img.shields.io/badge/Faculty_Profile-UF_Education-orange?logo=data:image/png;base64,BASE64_LOGO)](https://education.ufl.edu/faculty/botelho-anthony-f/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Anthony_Botelho-yellow?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=XoZzqwgAAAAJ&hl=en)
+
+### Research Vision
+As a researcher, Dr. Botelho focuses on impacting learning through the blending of learning theory and quantitative methods. His work leverages ideas and methods across multiple fields including cognitive psychology, statistics, and machine learning to benefit teachers and students through the development and application of educational technology.
 
 ## 🎯 Research Areas & Expertise
 Our lab focuses on developing innovative technological solutions for education through:
