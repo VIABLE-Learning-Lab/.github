@@ -39,7 +39,7 @@ The VIABLE Lab at University of Florida College of Education is dedicated to dev
 ### Archive Highlights
 - **[VIABLE Lab Presents at ISLS 2024](https://viablelab.org/news/3)**  
   *June 15, 2024*  
-  Lab member presented research on LLM-based student risk detection and learning analytics at CSCL 2024 in Buffalo, New York.
+  Lab member presented research on LLM-based student risk detection and learning analytics at ISLS 2024 in Buffalo, NY.
 
 - **[Receives OpenAI Research Grant](https://viablelab.org/news/2)**  
   *April 24, 2024*  
