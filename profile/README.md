@@ -93,9 +93,6 @@ We actively collaborate with:
 <!-- ## 💻 Open Source Projects
 Visit our [GitHub Organization](https://github.com/VIABLE-Learning-Lab) to explore our open-source projects and contributions to the educational technology community. -->
 
-## 📚 Research Output
-Follow our latest research publications and updates on [ResearchGate](https://www.researchgate.net/lab/Versatile-Innovations-in-Affect-Behavior-Learning-Engineering-VIABLE-Anthony-F-Botelho).
-
 ## 📍 Find Us
 **VIABLE Lab**  
 University of Florida College of Education  
@@ -106,7 +103,6 @@ Gainesville, FL 32601
 - [Official Website](https://viablelab.org/)
 - [Team](https://viablelab.org/team)
 - [Publications](https://viablelab.org/publications)
-- [Projects](https://viablelab.org/projects)
 - [News](https://viablelab.org/news)
 - [Contact](https://viablelab.org/contact)
 
