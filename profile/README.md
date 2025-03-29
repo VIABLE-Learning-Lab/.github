@@ -114,5 +114,5 @@ Gainesville, FL 32601
   [![GitHub](https://img.shields.io/badge/GitHub-VIABLE--Learning--Lab-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIABLE-Learning-Lab)
   [![ResearchGate](https://img.shields.io/badge/ResearchGate-VIABLE_Lab-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/lab/Versatile-Innovations-in-Affect-Behavior-Learning-Engineering-VIABLE-Anthony-F-Botelho)
 
-  © 2024 VIABLE Lab | University of Florida
+  © 2025 VIABLE Lab | University of Florida
 </div>
