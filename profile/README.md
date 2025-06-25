@@ -54,32 +54,6 @@ Our lab focuses on developing innovative technological solutions for education t
 
 ## 🌟 Latest News
 
-### Recent Updates
-- **[PhD Positions Available for Fall 2025](https://viablelab.org/news/6)**  
-  *October 24, 2024*  
-  VIABLE Lab is recruiting 1-2 PhD students for Fall 2025 in Educational Technology at University of Florida.
-
-- **[VIABLE Lab Presents at AECT 2024](https://viablelab.org/news/5)**  
-  *October 22, 2024*  
-  Lab member presented a systematic review on AI chatbots in education at AECT 2024.
-
-- **[Research Showcase at EDM & L@S 2024](https://viablelab.org/news/4)**  
-  *July 21, 2024*  
-  Our lab members presented multiple papers at EDM 2024 & L@S 2024 in Atlanta.
-
-### Archive Highlights
-- **[VIABLE Lab Presents at ISLS 2024](https://viablelab.org/news/3)**  
-  *June 15, 2024*  
-  Lab member presented research on LLM-based student risk detection and learning analytics at ISLS 2024 in Buffalo, NY.
-
-- **[Receives OpenAI Research Grant](https://viablelab.org/news/2)**  
-  *April 24, 2024*  
-  Our lab has been awarded the OpenAI Researcher Access Program grant to advance research in educational AI applications.
-
-- **[Welcomes Three New PhD Students](https://viablelab.org/news/1)**  
-  *August 24, 2023*  
-  Three outstanding PhD students - Seiyon Lee, Chip Li, and Shan Zhang - join our research team, bringing diverse expertise in AI, learning analytics, and educational technology.
-
 [View All News →](https://viablelab.org/news)
 
 ## 🤝 Collaboration
