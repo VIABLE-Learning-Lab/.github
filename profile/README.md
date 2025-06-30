@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://viablelab.org/logos/VIABLE-logo-2.png" alt="VIABLE Lab Logo" width="200"/>
+  <img src="https://viablelab.org/logos/VIABLE-logo-horizontal.png" alt="VIABLE Lab Logo" width="200"/>
   
   # VIABLE Lab
   ### Versatile Innovations in Affect Behavior and Learning Engineering
